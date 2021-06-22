@@ -14,7 +14,7 @@ problem
 
 * Our first goal is to solve the advection equation for *V*=1 on the domain
 [-10,10] up to *tEnd* = 5 by implementing the Upwind method
-(see [lecture notes](https://github.com/TP1-HHU/assignments)).
+(see lecture notes).
 * This program and many that will follow all need about the same infrastructure.
 You get a starter code in this repository, make yourself familiar with it.
 See which part of the code is still missing and implement it. Do not change
